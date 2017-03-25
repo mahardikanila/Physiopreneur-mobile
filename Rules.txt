@@ -1,0 +1,10 @@
+Rules yang harus dipatuhi dalam melakukan push atau commit perubahan.
+
+1. Semua contributor harus melakukan fork
+2. Setelah melakukan commit, diharapkan contributor melaporkan pada forum yang tersedia
+3. Summary dan Description harus detail dan jelas serta mudah dipahami contributor lainnya
+4. Hasil commit dari semua contributor akan terlebih dahulu di check sebelum dilakukan merge
+5. Contributor harus selalu bahagia dan tanpa paksaan
+
+SEMANGAT :D
+#findco #findthefuture
